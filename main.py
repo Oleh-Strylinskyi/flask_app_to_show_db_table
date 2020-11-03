@@ -10,4 +10,4 @@ def index():
 
 
 if __name__ == "__main__":
-    app.run(host="darkors-site.pp.ua")
+    app.run(debug=True)
